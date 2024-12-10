@@ -1,0 +1,2 @@
+def get_unique_list_f(lst):
+    return list(set(lst))
